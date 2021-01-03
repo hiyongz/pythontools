@@ -8,10 +8,10 @@ lines_in_file = []
 """生成目录列表中的某一项"""
 def creat_directory_line(line,headline_mark,i):
     if headline_mark == '#':
-        return '<a href="#' + str(i) + '">' + line[2:-1] + "</a>  \n"
+        return '  \n<a href="#' + str(i) + '">' + "**" + line[2:-1] + "**" + "</a>  \n"
     elif headline_mark == '##':
         #&emsp;为Markdown中的一种缩进，这里不直接用空格作为缩进是因为多个空格一起出现可能会生成代码块，引发歧义
-        return '&emsp;<a href="#' + str(i) + '">' + line[3:-1] + "</a>  \n"
+        return '&emsp;<a href="#' + str(i) + '">' + line[3:-1] + "</a>"
     elif headline_mark == '###':
         return '&emsp;&emsp;<a href="#' + str(i) + '">' + line[4:-1] + "</a>  \n"
     elif headline_mark == '####':
@@ -25,7 +25,7 @@ def creat_directory_line(line,headline_mark,i):
 def creat_directory(f):
     i = 0
     directory = []
-    directory.append('<a name="index">**Index**</a>\n')
+    directory.append('<a name="index">**INDEX**</a>\n')
     for line in f:
         lines_in_file.append(line)
     f.close()
@@ -36,11 +36,11 @@ def creat_directory(f):
             #如果为最后一行且末尾无换行（防最后一个字被去除）
             if j == length - 1 and lines_in_file[j][-1] != '\n':
                 directory.append(creat_directory_line(lines_in_file[j] + '\n',splitedline[0],i) + '\n')
-                lines_in_file[j] = lines_in_file[j].replace(splitedline[0] + ' ',splitedline[0] + ' ' + '<a name="' + str(i) + '">')[:] + '</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>' + "\n"
+                lines_in_file[j] = lines_in_file[j].replace(splitedline[0] + ' ',splitedline[0] + ' ' + '<a name="' + str(i) + '">')[:] + "</a>\n"
                 i = i + 1
             else:
                 directory.append(creat_directory_line(lines_in_file[j],splitedline[0],i))
-                lines_in_file[j] = lines_in_file[j].replace(splitedline[0] + ' ',splitedline[0] + ' ' + '<a name="' + str(i) + '">')[:-1] + '</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>' + "\n"
+                lines_in_file[j] = lines_in_file[j].replace(splitedline[0] + ' ',splitedline[0] + ' ' + '<a name="' + str(i) + '">')[:-1] + "</a>\n"
                 i = i + 1
     return directory
 
