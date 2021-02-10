@@ -56,7 +56,7 @@ def creat_file_with_toc(f):
                 f.write(line)
             print('文件已生成')
     else:
-        print('文件名重复，请修改文件'+'file_with_toc.md'+'的文件名后重试')
+        print('文件名重复，请修改文件'+f.name[:-3] + '_with_toc.md'+'的文件名后重试')
 
 if __name__=='__main__':
     file_name = ''
