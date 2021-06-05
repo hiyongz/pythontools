@@ -9,21 +9,23 @@ comments: true
 <a name="index">**INDEX**</a>
 
 <a href="#0">**哲学**</a>  
-&emsp;<a href="#1"> 《世界哲学史》</a>&emsp;<a href="#2">《活法》</a>&emsp;<a href="#3">《知行合一王阳明1》</a>&emsp;<a href="#4">《知行合一王阳明2》</a>  
-<a href="#5">**物理学**</a>  
-&emsp;<a href="#6">《大设计》</a>&emsp;<a href="#7">《上帝掷骰子吗？：量子物理史话》</a>&emsp;<a href="#8">《时间简史》</a>  
-<a href="#9">**小说**</a>  
-&emsp;<a href="#10"> 《白夜行》</a>&emsp;<a href="#11"> 《解忧杂货店》</a>&emsp;<a href="#12">《起风了》</a>&emsp;<a href="#13">《人间失格》</a>&emsp;<a href="#14">《三体全集》</a>&emsp;<a href="#15">《生命不息》</a>  
-<a href="#16">**心理学**</a>  
-&emsp;<a href="#17">《人性的弱点》</a>&emsp;<a href="#18">《少有人走的路》</a>&emsp;<a href="#19">《少有人走的路Ⅱ》</a>&emsp;<a href="#20">《拖延心理学》</a>&emsp;<a href="#21">《影响力》</a>  
-<a href="#22">**社会学**</a>  
-&emsp;<a href="#23">《低智商社会》</a>&emsp;<a href="#24">《枪炮、病菌与钢铁：人类社会的命运》</a>&emsp;<a href="#25">《吾国与吾民》</a>  
-<a href="#26">**历史**</a>  
-&emsp;<a href="#27">《人类简史》</a>&emsp;<a href="#28">《思维简史》</a>&emsp;<a href="#29">《万历十五年》</a>  
-<a href="#30">**经济学**</a>  
-&emsp;<a href="#31">《富爸爸穷爸爸》</a>&emsp;<a href="#32">《文明、现代化、价值投资与中国》</a>  
-<a href="#33">**思维**</a>  
-&emsp;<a href="#34">《刻意学习》</a>&emsp;<a href="#35">《学会提问》</a>&emsp;<a href="#36">《学习的艺术》</a>&emsp;<a href="#37">《原则》</a>&emsp;<a href="#38">《知识的错觉》</a>
+&emsp;<a href="#1"> 《世界哲学史》</a>&emsp;<a href="#2">《活法》</a>&emsp;<a href="#3">《知行合一王阳明1》</a>&emsp;<a href="#4">《知行合一王阳明2》</a>&emsp;<a href="#5">《谈美》</a>  
+<a href="#6">**物理学**</a>  
+&emsp;<a href="#7">《大设计》</a>&emsp;<a href="#8">《上帝掷骰子吗？：量子物理史话》</a>&emsp;<a href="#9">《时间简史》</a>&emsp;<a href="#10">《现实不似你所见》</a>  
+<a href="#11">**小说**</a>  
+&emsp;<a href="#12">《白夜行》</a>&emsp;<a href="#13">《解忧杂货店》</a>&emsp;<a href="#14">《起风了》</a>&emsp;<a href="#15">《人间失格》</a>&emsp;<a href="#16">《三体全集》</a>&emsp;<a href="#17">《生命不息》</a>&emsp;<a href="#18">《你一生的故事》</a>&emsp;<a href="#19">《神雕侠侣》</a>&emsp;<a href="#20">《射雕英雄传》</a>  
+<a href="#21">**心理学**</a>  
+&emsp;<a href="#22">《人性的弱点》</a>&emsp;<a href="#23">《少有人走的路》</a>&emsp;<a href="#24">《少有人走的路Ⅱ》</a>&emsp;<a href="#25">《拖延心理学》</a>&emsp;<a href="#26">《影响力》</a>&emsp;<a href="#27">《非暴力沟通》</a>&emsp;<a href="#28">《自卑与超越》</a>  
+<a href="#29">**社会学**</a>  
+&emsp;<a href="#30">《低智商社会》</a>&emsp;<a href="#31">《枪炮、病菌与钢铁：人类社会的命运》</a>&emsp;<a href="#32">《吾国与吾民》</a>  
+<a href="#33">**生物学**</a>  
+&emsp;<a href="#34">《生命的法则》</a>  
+<a href="#35">**历史**</a>  
+&emsp;<a href="#36">《人类简史》</a>&emsp;<a href="#37">《未来简史》</a>&emsp;<a href="#38">《思维简史》</a>&emsp;<a href="#39">《万历十五年》</a>  
+<a href="#40">**经济学**</a>  
+&emsp;<a href="#41">《富爸爸穷爸爸》</a>&emsp;<a href="#42">《文明、现代化、价值投资与中国》</a>&emsp;<a href="#43">《注意力经济》</a>  
+<a href="#44">**思维**</a>  
+&emsp;<a href="#45">《刻意学习》</a>&emsp;<a href="#46">《学会提问》</a>&emsp;<a href="#47">《学习的艺术》</a>&emsp;<a href="#48">《原则》</a>&emsp;<a href="#49">《知识的错觉》</a>
 
 # <a name="0">哲学</a>
 ## <a name="1"> 《世界哲学史》</a>
@@ -71,9 +73,16 @@ comments: true
 
 > 无善无恶心之体， 有善有恶意之动； 知善知恶是良知， 为善去恶是格物。
 
+## <a name="5">《谈美》</a>
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 朱光潜 </p> 
+<p>阅读时间： <time>2021.02.02</time> —<time>2021.02.09</time></p>
+<img src="index/谈美.jpg" width="20%" height="20%" />
 
-# <a name="5">物理学</a>
-## <a name="6">《大设计》</a>
+
+
+
+# <a name="6">物理学</a>
+## <a name="7">《大设计》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/>  [美\] 列纳德·蒙洛迪诺 [英\] 史蒂芬·霍金 </p>
 
 `物理学 `
@@ -86,20 +95,24 @@ comments: true
 >
 > 这样，科学甚至数学研究既可看成发现，又可看成发明，由此澄清了许多研究者似非而是的迷惑。这种新观点还使科学和哲学中的许多长期争论的问题成为伪问题。
 
-## <a name="7">《上帝掷骰子吗？：量子物理史话》</a>
+## <a name="8">《上帝掷骰子吗？：量子物理史话》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> 曹天元 </p> 
 
 <img src="index/上帝掷骰子吗？：量子物理史话.jpg" width="20%" height="20%" />
 
 
-## <a name="8">《时间简史》</a>
+## <a name="9">《时间简史》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> 史蒂芬・霍金  </p> 
 
 <img src="index/时间简史.jpg" width="20%" height="20%" />
 
-# <a name="9">小说</a>
+## <a name="10">《现实不似你所见》</a>
+<p> <input type="checkbox" name="category" onclick="return false" checked/> [意] 卡洛·罗韦利 </p> 
+<p>阅读时间： <time>2020.12.28</time> —<time>2021.01.13</time></p>
+<img src="index/现实不似你所见.jpg" width="20%" height="20%" />
 
-## <a name="10"> 《白夜行》</a>
+# <a name="11">小说</a>
+## <a name="12">《白夜行》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/>东野圭吾 </p> 
 
 `推理小说`
@@ -110,7 +123,7 @@ comments: true
 
 > 我的人生就像在的白夜里走路
 
-## <a name="11"> 《解忧杂货店》</a>
+## <a name="13">《解忧杂货店》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/>东野圭吾 </p> 
 
 <img src="index/解忧杂货店.jpg" width="20%" height="20%" />
@@ -119,7 +132,7 @@ comments: true
 > 
 >人与人之间情断义绝，并不需要什么具体的理由，就算表面上有，也很可能是心已经离开的结果，事后才编造的借口而已。因为倘若心没有离开，当将导致关系破裂的事态发生时，理应有人努力去挽救。如果没有，说明其实关系早已破裂。
 
-## <a name="12">《起风了》</a>
+## <a name="14">《起风了》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [日] 堀辰雄 </p> 
 
 <img src="index/起风了.jpg" width="20%" height="20%" />
@@ -127,7 +140,7 @@ comments: true
 > 起风了，要努力活下去吗，不，无须如此
 
 
-## <a name="13">《人间失格》</a>
+## <a name="15">《人间失格》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> 太宰治 </p> 
 
 <img src="index/人间失格.jpg" width="20%" height="20%" />
@@ -136,7 +149,7 @@ comments: true
 > 人的态度变化起来，果真如此简单、如此轻而易举吗？人类的善变让我感到卑劣无耻，不，可称得上是滑稽。
 
 
-## <a name="14">《三体全集》</a>
+## <a name="16">《三体全集》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> 刘慈欣 </p> 
 
 <img src="index/三体全集.jpg" width="20%" height="20%" />
@@ -148,7 +161,7 @@ comments: true
 > 
 > 给岁月以文明，而不是给文明以岁月。
 
-## <a name="15">《生命不息》</a>
+## <a name="17">《生命不息》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [英] 凯特·阿特金森 </p> 
 
 <img src="index/生命不息.jpg" width="20%" height="20%" />
@@ -159,8 +172,28 @@ comments: true
 > 
 > 一切都稍纵即逝，一切又都亘古长存
 
-# <a name="16">心理学</a>
-## <a name="17">《人性的弱点》</a>
+## <a name="18">《你一生的故事》</a>
+
+<p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 特德·姜 </p> 
+
+<p>阅读时间： <time>2021.02.08</time> —<time>2021.02.09</time></p>
+
+<img src="index/你一生的故事.jpg" width="20%" height="20%" />
+
+
+## <a name="19">《神雕侠侣》</a>
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 金庸 </p> 
+
+<img src="index/神雕侠侣.jpg" width="20%" height="20%" />
+
+## <a name="20">《射雕英雄传》</a>
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 金庸 </p> 
+
+<img src="index/射雕英雄传.jpg" width="20%" height="20%" />
+
+
+# <a name="21">心理学</a>
+## <a name="22">《人性的弱点》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 戴尔·卡耐基 </p> 
 
 <img src="index/人性的弱点.jpg" width="20%" height="20%" />
@@ -169,7 +202,7 @@ comments: true
 > 
 > 我们每个人都希望被人欣赏、被人重视……甚至会不顾一切的去达到这个目的。但是，没有人愿意接受虚伪的、不诚恳的奉承。
 
-## <a name="18">《少有人走的路》</a>
+## <a name="23">《少有人走的路》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/>  [美] 斯科特·派克 </p> 
 
 <img src="index/少有人走的路.jpg" width="20%" height="20%" />
@@ -181,7 +214,7 @@ comments: true
 > 以极主动的态度去解决人生痛苦的重要原则：推迟满足感、承担责任、尊重事实、保持平衡
 
 
-## <a name="19">《少有人走的路Ⅱ》</a>
+## <a name="24">《少有人走的路Ⅱ》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/>  [美] 斯科特·派克 </p> 
 
 <img src="index/少有人走的路Ⅱ.jpg" width="20%" height="20%" />
@@ -194,7 +227,7 @@ comments: true
 > 
 > 要想真正的学习和成长，我们就必须去遵守现实的规则。有人这样总结说：生活就是在你已经规划好的事情之外所发生的事情
 
-## <a name="20">《拖延心理学》</a>
+## <a name="25">《拖延心理学》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/>  [美] 简·博克(Jane B. Burka) / [美] 莱诺拉·袁(Lenora M. Yuen) </p> 
 
 <img src="index/拖延心理学.jpg" width="20%" height="20%" />
@@ -202,7 +235,7 @@ comments: true
 > 学会接受和拒绝
 > 利用你的身体减轻拖延
 
-## <a name="21">《影响力》</a>
+## <a name="26">《影响力》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 罗伯特·西奥迪尼 </p> 
 
 <img src="index/影响力.jpg" width="20%" height="20%" />
@@ -213,8 +246,19 @@ comments: true
 > 
 > 我们要采取一切合理的方法一抵制，威胁，对崎，谴责，抗议来报复以刺激我们的捷径反应威目的的虚假信号。
 
-# <a name="22">社会学</a>
-## <a name="23">《低智商社会》</a>
+## <a name="27">《非暴力沟通》</a>
+<p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 马歇尔·卢森堡 </p> 
+
+<img src="index/非暴力沟通.jpg" width="20%" height="20%" />
+
+## <a name="28">《自卑与超越》</a>
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 阿尔弗雷德·阿德勒 </p> 
+
+<img src="index/自卑与超越.jpeg" width="20%" height="20%" />
+
+
+# <a name="29">社会学</a>
+## <a name="30">《低智商社会》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/>（日）大前研一 </p> 
 
 <img src="index/低智商社会.jpg" width="20%" height="20%" />
@@ -229,14 +273,14 @@ comments: true
 > 
 > 绝大多数国民什么都不思考，只知道和媒体一起制造混乱，最后只是按政府的意愿来行事。
 
-## <a name="24">《枪炮、病菌与钢铁：人类社会的命运》</a>
+## <a name="31">《枪炮、病菌与钢铁：人类社会的命运》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 贾雷德·戴蒙德 </p> 
 
 <img src="index/枪炮、病菌与钢铁.jpg" width="20%" height="20%" />
 
 > 不同民族之间相互作用的历史，就是通过征服、流行病和灭绝种族的大屠杀来形成现代世界的。这些冲突产生了回响，而这些回响在经过许多世纪后仍然没有消失，并且在今天世界上的某些最混乱的地区仍在活跃地继续。
 
-## <a name="25">《吾国与吾民》</a>
+## <a name="32">《吾国与吾民》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> 林语堂 </p> 
 
 <img src="index/吾国与吾民.jpg" width="20%" height="20%" />
@@ -246,10 +290,18 @@ comments: true
 > 孔子曾回答一个门人对于死的问题这样说：“未知生——焉知死?”他在这几句话中，表现其对于人生和知识问题的庸常的、非抽象的、切实的态度，这种态度构成吾们全国的生活与思想的特性。
 
 
+# <a name="33">生物学</a>
+## <a name="34">《生命的法则》</a>
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 肖恩•B•卡罗尔 </p> 
+
+<img src="index/生命的法则.jpg" width="20%" height="20%" />
 
 
-# <a name="26">历史</a>
-## <a name="27">《人类简史》</a>
+
+
+
+# <a name="35">历史</a>
+## <a name="36">《人类简史》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [以色列] 尤瓦尔·赫拉利 </p> 
 
 <img src="index/人类简史.jpg" width="20%" height="20%" />
@@ -260,7 +312,12 @@ comments: true
 > 
 > 拥有神的能力，但是不负责任、贪得无厌，而且连想要什么都不知道。天下危险，恐怕莫此为甚。
 
-## <a name="28">《思维简史》</a>
+## <a name="37">《未来简史》</a>
+<p> <input type="checkbox" name="category" onclick="return false" checked/> [以色列] 尤瓦尔·赫拉利 </p> 
+
+<img src="index/未来简史.jpg" width="20%" height="20%" />
+
+## <a name="38">《思维简史》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [美]伦纳德•蒙洛迪诺 </p> 
 
 <img src="index/思维简史.jpg" width="20%" height="20%" />
@@ -271,7 +328,7 @@ comments: true
 > 
 > 好奇心、系统思考的方法（或者说思维方式），以及不断挑战极限的精神，应该是人类立足于世界的根本。
 
-## <a name="29">《万历十五年》</a>
+## <a name="39">《万历十五年》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/>[美] 黄仁宇 </p> 
 
 <img src="index/万历十五年.jpg" width="20%" height="20%" />
@@ -282,16 +339,16 @@ comments: true
 
 
 
-# <a name="30">经济学</a>
+# <a name="40">经济学</a>
 
-## <a name="31">《富爸爸穷爸爸》</a>
+## <a name="41">《富爸爸穷爸爸》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/>〔美〕罗伯特·清崎 </p> 
 
 <img src="index/富爸爸穷爸爸.jpg" width="20%" height="20%" />
 
 > 财商
 
-## <a name="32">《文明、现代化、价值投资与中国》</a>
+## <a name="42">《文明、现代化、价值投资与中国》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> 李录 </p> 
 
 <img src="index/文明、现代化、价值投资与中国.jpg" width="20%" height="20%" />
@@ -300,15 +357,20 @@ comments: true
 > 
 > 中国未来几十年在经济上最核心的变化将是从政府主导的市场经济转变为以政府为辅助的全面自由市场经济。
 
+## <a name="43">《注意力经济》</a>
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 吴修铭 </p> 
+
+<img src="index/注意力经济.jpg" width="20%" height="20%" />
+
+> 我们心甘情愿或半推半就地与注意力行业达成了这笔大买卖，而且也在享受随之而来的好处。但本质上来说，我们完全了解自己所做的交易。毫无疑问，我们日常的注意力交易中，有些的确物有所值——例如新闻、精彩的娱乐或有用的服务。但是其他交易并非如此
 
 
+# <a name="44">思维</a>
 
-# <a name="33">思维</a>
-
-## <a name="34">《刻意学习》</a>
+## <a name="45">《刻意学习》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> Scalers </p> 
 
-## <a name="35">《学会提问》</a>
+## <a name="46">《学会提问》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 尼尔·布朗 / [美] 斯图尔特·基利 </p> 
 
 <img src="index/学会提问.jpg" width="20%" height="20%" />
@@ -318,7 +380,7 @@ comments: true
 > 批判性思维是一个工具，它能助你一臂之力。为了实现工具的作用，批判性思维可能让你如虎添翼，也可能让你折戟沉沙。
 
 
-## <a name="36">《学习的艺术》</a>
+## <a name="47">《学习的艺术》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> 沃尔特·皮特金 </p> 
 
 <img src="index/学习的艺术.jpg" width="20%" height="20%" />
@@ -332,7 +394,7 @@ comments: true
 
 
 
-## <a name="37">《原则》</a>
+## <a name="48">《原则》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 瑞·达利欧 </p> 
 
 <img src="index/原则.jpg" width="20%" height="20%" />
@@ -345,7 +407,7 @@ comments: true
 > 
 > 影响好决策的最大威胁是有害的情绪
 
-## <a name="38">《知识的错觉》</a>
+## <a name="49">《知识的错觉》</a>
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 史蒂文·斯洛曼 / [美] 菲利普 ·费恩巴赫 </p> 
 
 <img src="index/知识的错觉.jpg" width="20%" height="20%" />

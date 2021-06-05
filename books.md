@@ -52,6 +52,13 @@ comments: true
 
 > 无善无恶心之体， 有善有恶意之动； 知善知恶是良知， 为善去恶是格物。
 
+## 《谈美》
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 朱光潜 </p> 
+<p>阅读时间： <time>2021.02.02</time> —<time>2021.02.09</time></p>
+<img src="index/谈美.jpg" width="20%" height="20%" />
+
+
+
 
 # 物理学
 ## 《大设计》
@@ -78,9 +85,13 @@ comments: true
 
 <img src="index/时间简史.jpg" width="20%" height="20%" />
 
-# 小说
+## 《现实不似你所见》
+<p> <input type="checkbox" name="category" onclick="return false" checked/> [意] 卡洛·罗韦利 </p> 
+<p>阅读时间： <time>2020.12.28</time> —<time>2021.01.13</time></p>
+<img src="index/现实不似你所见.jpg" width="20%" height="20%" />
 
-##  《白夜行》
+# 小说
+## 《白夜行》
 <p> <input type="checkbox" name="category" onclick="return false" checked/>东野圭吾 </p> 
 
 `推理小说`
@@ -91,7 +102,7 @@ comments: true
 
 > 我的人生就像在的白夜里走路
 
-##  《解忧杂货店》
+## 《解忧杂货店》
 <p> <input type="checkbox" name="category" onclick="return false" checked/>东野圭吾 </p> 
 
 <img src="index/解忧杂货店.jpg" width="20%" height="20%" />
@@ -139,6 +150,26 @@ comments: true
 > 有一天，这一切自然要一并交付给那同一场历史，这山峦也逃不过一岩石终从沙土。大多数人在懵懂中经历了一些事，只有回过头来才看得出他们的意义。
 > 
 > 一切都稍纵即逝，一切又都亘古长存
+
+## 《你一生的故事》
+
+<p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 特德·姜 </p> 
+
+<p>阅读时间： <time>2021.02.08</time> —<time>2021.02.09</time></p>
+
+<img src="index/你一生的故事.jpg" width="20%" height="20%" />
+
+
+## 《神雕侠侣》
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 金庸 </p> 
+
+<img src="index/神雕侠侣.jpg" width="20%" height="20%" />
+
+## 《射雕英雄传》
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 金庸 </p> 
+
+<img src="index/射雕英雄传.jpg" width="20%" height="20%" />
+
 
 # 心理学
 ## 《人性的弱点》
@@ -194,6 +225,17 @@ comments: true
 > 
 > 我们要采取一切合理的方法一抵制，威胁，对崎，谴责，抗议来报复以刺激我们的捷径反应威目的的虚假信号。
 
+## 《非暴力沟通》
+<p> <input type="checkbox" name="category" onclick="return false" checked/> [美] 马歇尔·卢森堡 </p> 
+
+<img src="index/非暴力沟通.jpg" width="20%" height="20%" />
+
+## 《自卑与超越》
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 阿尔弗雷德·阿德勒 </p> 
+
+<img src="index/自卑与超越.jpeg" width="20%" height="20%" />
+
+
 # 社会学
 ## 《低智商社会》
 <p> <input type="checkbox" name="category" onclick="return false" checked/>（日）大前研一 </p> 
@@ -227,6 +269,14 @@ comments: true
 > 孔子曾回答一个门人对于死的问题这样说：“未知生——焉知死?”他在这几句话中，表现其对于人生和知识问题的庸常的、非抽象的、切实的态度，这种态度构成吾们全国的生活与思想的特性。
 
 
+# 生物学
+## 《生命的法则》
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 肖恩•B•卡罗尔 </p> 
+
+<img src="index/生命的法则.jpg" width="20%" height="20%" />
+
+
+
 
 
 # 历史
@@ -240,6 +290,11 @@ comments: true
 > 虽然现在人类已经拥有许多令人赞叹的能力，但我们仍然对目标感到茫然，而且似乎也仍然总是感到不满。
 > 
 > 拥有神的能力，但是不负责任、贪得无厌，而且连想要什么都不知道。天下危险，恐怕莫此为甚。
+
+## 《未来简史》
+<p> <input type="checkbox" name="category" onclick="return false" checked/> [以色列] 尤瓦尔·赫拉利 </p> 
+
+<img src="index/未来简史.jpg" width="20%" height="20%" />
 
 ## 《思维简史》
 <p> <input type="checkbox" name="category" onclick="return false" checked/> [美]伦纳德•蒙洛迪诺 </p> 
@@ -281,7 +336,12 @@ comments: true
 > 
 > 中国未来几十年在经济上最核心的变化将是从政府主导的市场经济转变为以政府为辅助的全面自由市场经济。
 
+## 《注意力经济》
+<p> <input type="checkbox" name="category" onclick="return false" checked/> 吴修铭 </p> 
 
+<img src="index/注意力经济.jpg" width="20%" height="20%" />
+
+> 我们心甘情愿或半推半就地与注意力行业达成了这笔大买卖，而且也在享受随之而来的好处。但本质上来说，我们完全了解自己所做的交易。毫无疑问，我们日常的注意力交易中，有些的确物有所值——例如新闻、精彩的娱乐或有用的服务。但是其他交易并非如此
 
 
 # 思维
